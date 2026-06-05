@@ -11,7 +11,7 @@
     const things = favthings.map(things => <p key={things}>{things}</p>)
     
      */
-    <img src="/first_vite/image.png" />
+    <img src="src\image.png" />
     /** 
     function data(event){
       const FormData = new FormData(event.currentTarget)
