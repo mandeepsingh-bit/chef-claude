@@ -1,6 +1,6 @@
   import Chef from "./Chef";
   import Form from "./Form";
-  import image from './image.png'
+  
  
 /*import { useState } from "react";
 */
@@ -11,7 +11,7 @@
     const things = favthings.map(things => <p key={things}>{things}</p>)
     
      */
-    <img src={image} />
+    <img src="/first_vite/image.png" />
     /** 
     function data(event){
       const FormData = new FormData(event.currentTarget)
