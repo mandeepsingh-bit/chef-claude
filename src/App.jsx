@@ -1,6 +1,7 @@
   import Chef from "./Chef";
   import Form from "./Form";
-  
+  import image from './image.png'
+ 
 /*import { useState } from "react";
 */
   export default function App(){
@@ -9,8 +10,9 @@
     const allfavthings = ["butterchicken", "mango mania"]
     const things = favthings.map(things => <p key={things}>{things}</p>)
     
-     
-    
+     */
+    <img src={image} />
+    /** 
     function data(event){
       const FormData = new FormData(event.currentTarget)
     const newdata = FormData.get("fav")
