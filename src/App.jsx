@@ -17,12 +17,7 @@
       const FormData = new FormData(event.currentTarget)
     const newdata = FormData.get("fav")
     
-    
     }
-
-
-
-    
 
     function addfavthings(){
       setFavthings(prevthings => [...prevthings, newdata ])
