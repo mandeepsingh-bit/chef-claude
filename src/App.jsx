@@ -11,6 +11,8 @@
     const things = favthings.map(things => <p key={things}>{things}</p>)
     
      */
+
+    
     /**<img src="src\image.png" />*/
     /** 
     function data(event){
