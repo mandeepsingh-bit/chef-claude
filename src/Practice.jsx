@@ -5,6 +5,8 @@ export default function Practice(){
             <label for="submit">
                 <input type="email" name="email" placeholder="abc@gmail.com " />
 
+
+
                 
                
                  <input type="password" name="password" />
