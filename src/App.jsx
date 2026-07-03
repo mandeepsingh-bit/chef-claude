@@ -19,12 +19,6 @@
     
     }
 
-
-
-
-
-
-
     function addfavthings(){
       setFavthings(prevthings => [...prevthings, newdata ])
     }
