@@ -13,6 +13,9 @@
      */
     /**<img src="src\image.png" />*/
     /** 
+
+
+    
     function data(event){
       const FormData = new FormData(event.currentTarget)
     const newdata = FormData.get("fav")
