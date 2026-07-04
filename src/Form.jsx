@@ -59,7 +59,7 @@ export default function Form(){
                 <p> 
                     Lorem ipsum dolor sit amet consectetur 
                     adipisicing elit. Sapiente sint officiis
-                     aliquid dicta aliquam. Temporibus fugit
+                     aliquid dicta aliquam. hey my friend Temporibus fugit
                       quibusdam officia, corrupti, cum repudiandae 
                       vero aspernatur nemo ut blanditiis tempore ad totam 
                       s  apiente.
