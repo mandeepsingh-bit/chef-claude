@@ -18,21 +18,3 @@ export default function Chef(){
     )
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
