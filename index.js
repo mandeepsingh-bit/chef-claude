@@ -1,1 +1,1 @@
-/* bc maja aa raha abh zindagi ka */
+ 
